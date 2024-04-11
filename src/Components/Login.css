@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.loginform{
+    width: 500px;
+   
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+/* .login span{
+    margin-right: 30px;
+    border: 2px solid red;
+} */
+
+a{
+    margin-left: 5px;
+}
